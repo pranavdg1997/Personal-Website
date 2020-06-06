@@ -22,10 +22,11 @@
     }
   ],
   "favourite": [
-    "Solving Real Problems",
+    "Solving Problems",
     "Deep Learning in practice",
     "Cooking",
-    "Creative Fiction Writing"
+    "Creative Fiction Writing",
+    "Podcasting"
   ],
   "aboutText": "Hello! I am a Data Science Grad student. I completed B.Tech in Electrical Engineering in 2018.\n Strong Machine Learning conceptual as well as practical skills.\n\nI am driven by challenging, fast-paced, exciting, and educational environments. My areas of interest include end-to-end sustainable, efficient and robust AI solutions.\n",
   "aboutTechnologies": [
